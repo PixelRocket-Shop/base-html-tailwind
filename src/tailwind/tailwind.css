@@ -1,0 +1,31 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+input[type="checkbox"]:checked + div {  
+    @apply bg-gradient-purple-top;
+    @apply border-0;
+    @apply text-white;
+}  
+
+input[type="checkbox"]:checked + div svg {  
+    @apply block;  
+}
+
+input[type="radio"]:checked + div {
+    @apply border-neutral-50;
+    @apply bg-gradient-purple-top;
+}
+
+input[type="radio"]:checked + div > div > div {
+    @apply bg-gradient-purple-top
+}
+
+.apexcharts-tooltip {
+    background: #0C1523;
+    color: "#ffffff";
+}
+
+
