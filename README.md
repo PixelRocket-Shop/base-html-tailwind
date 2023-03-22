@@ -12,7 +12,6 @@ Base is a Tailwind CSS one-page dashboard template featuring gradients that add 
 
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
-- [Customise Template](#customise-template)
 - [Contact Me](#contact-me)
 
 
