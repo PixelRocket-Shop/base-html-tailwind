@@ -3,7 +3,7 @@
 ## Overview
 Base is a Tailwind CSS one-page dashboard template featuring gradients that add a professional touch to your data, with custom components including an eye-catching banner, visually appealing empty state, easy-to-read stats, intuitive graphs, customizable data table, and visually stunning cards, enabling you to effortlessly create a functional and aesthetically pleasing dashboard for your clients or personal projects.
 
-<strong><a href="https://base-html-tailwind.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/oldskool-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
+<strong><a href="https://base-html-tailwind.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/base-html-tailwind/archive/main.zip">Download ZIP</a></strong>
 
 ![Tailwind CSS Responsive HTML Admin Panel Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/corporate-public/free-tailwind-admin-template-2.png "Base | Tailwind CSS Responsive HTML Admin Panel Template")
 
