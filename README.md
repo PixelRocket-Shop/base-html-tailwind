@@ -3,9 +3,9 @@
 ## Overview
 Base is a Tailwind CSS one-page dashboard template featuring gradients that add a professional touch to your data, with custom components including an eye-catching banner, visually appealing empty state, easy-to-read stats, intuitive graphs, customizable data table, and visually stunning cards, enabling you to effortlessly create a functional and aesthetically pleasing dashboard for your clients or personal projects.
 
-<strong><a href="https://oldskool-html-bootstrap.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/oldskool-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
+<strong><a href="https://base-html-tailwind.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/oldskool-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
 
-![Tailwind CSS Responsive HTML Admin Panel Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/oldskool-html/homepage-medium.jpg "Base | Tailwind CSS Responsive HTML Admin Panel Template")
+![Tailwind CSS Responsive HTML Admin Panel Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/corporate-public/free-tailwind-admin-template-2.png "Base | Tailwind CSS Responsive HTML Admin Panel Template")
 
 
 ## Table of contents
@@ -13,7 +13,7 @@ Base is a Tailwind CSS one-page dashboard template featuring gradients that add 
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
 - [Customise Template](#customise-template)
-- [Contact Us](#contact-us)
+- [Contact Me](#contact-me)
 
 
 ## Requirements
@@ -44,5 +44,5 @@ npm run watch
 npm run build
 ```
 
-## Contact Us
-You can find our website [here](https://www.pixelrocket.store) or you can email us at support@pixelrocket.store
+## Contact Me
+You can find my website [here](https://www.pixelrocket.store) or you can email me at support@pixelrocket.store
